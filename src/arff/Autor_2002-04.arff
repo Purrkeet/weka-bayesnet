@@ -1,0 +1,116 @@
+@relation Autor_2002-04
+
+@attribute 'Papers\\Autores' {'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036961606&doi=10.1023\%2fA\%3a1021258506583&partnerID=40&md5=78061e34f21876b03d32937593cc2152','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036891002&doi=10.1002\%2fscj.10032&partnerID=40&md5=e84ce3f74f44e18c5d995210fe46b82e','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036874999&doi=10.1155\%2fS1110865702206083&partnerID=40&md5=7f539f3df3488022cb0159c20347c1ca','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036734155&doi=10.1016\%2fS0888-613X\%2802\%2900071-3&partnerID=40&md5=9f97aefa7121c2ed763cf3c043914d31',https://www.scopus.com/inward/record.uri?eid=2-s2.0-0042254114&partnerID=40&md5=2618e364c8960b911ddf4b9a418919e8,https://www.scopus.com/inward/record.uri?eid=2-s2.0-1342286937&partnerID=40&md5=55f4726ab8fd5b4a95e8907b8828e713,'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0344464762&doi=10.1093\%2fbioinformatics\%2fbtg313&partnerID=40&md5=6a04dc1cd5408b31f5c22457768921c0','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0345492459&doi=10.1016\%2fj.cviu.2003.08.001&partnerID=40&md5=087d2870fccc1fffecc40a8224f2eac0',https://www.scopus.com/inward/record.uri?eid=2-s2.0-0842309206&partnerID=40&md5=a5e2660d7b673c14c32252a71498cfeb,https://www.scopus.com/inward/record.uri?eid=2-s2.0-4544318426&partnerID=40&md5=5d297cc43eeb0d8c99a1fd50645b980e,'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037872024&doi=10.1016\%2fS1071-5819\%2803\%2900020-X&partnerID=40&md5=15478c0d87b4b5f98c2302ebc52d19ab',https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038457886&partnerID=40&md5=fc2cf122b63d0a634d36323e6a1161b2,'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037683496&doi=10.1016\%2fS0885-2308\%2803\%2900011-1&partnerID=40&md5=b74d9a853e53d4dcb82b4cc0cadcbe05','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038021376&doi=10.1016\%2fS0885-2308\%2803\%2900010-X&partnerID=40&md5=ad67ed7a1e85aeb1f1f3888778c23331','https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037382608&doi=10.1016\%2fS0167-6393\%2802\%2900080-8&partnerID=40&md5=4510778ae150bb2a26779cf38839002e','https://www.scopus.com/inward/record.uri?eid=2-s2.0-12344259602&doi=10.1093\%2fbioinformatics\%2fbth448&partnerID=40&md5=a8c01fdd2f28bc062f7032a3c642d88b',https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049012105&partnerID=40&md5=94f19698d03f3ee29be8d7b09de1927d,'https://www.scopus.com/inward/record.uri?eid=2-s2.0-8444245968&doi=10.1089\%2fcmb.2004.11.971&partnerID=40&md5=8be5b606eb96c7213a0c47ad96ae1f09','https://www.scopus.com/inward/record.uri?eid=2-s2.0-4444306128&doi=10.1109\%2fTSMCA.2004.832823&partnerID=40&md5=637c47a37d2003fa09620051ba928fd9','https://www.scopus.com/inward/record.uri?eid=2-s2.0-4644253517&doi=10.1016\%2fj.jvcir.2004.04.001&partnerID=40&md5=5e287259423f07ca33230fd7d4d5054f','https://www.scopus.com/inward/record.uri?eid=2-s2.0-4644337854&doi=10.1016\%2fj.jvcir.2004.04.010&partnerID=40&md5=64b63492c7b934be5f5549a87b21ac56','https://www.scopus.com/inward/record.uri?eid=2-s2.0-4344602213&doi=10.1002\%2fint.20022&partnerID=40&md5=6d0c0b449a98613bcccf69ae4b7cea39','https://www.scopus.com/inward/record.uri?eid=2-s2.0-10644226864&doi=10.1007\%2fs00530-004-0148-1&partnerID=40&md5=4ca74ade9b06f24a595a3620e1457610','https://www.scopus.com/inward/record.uri?eid=2-s2.0-3142744689&doi=10.1093\%2fbioinformatics\%2fbth093&partnerID=40&md5=57501aaaa5e4008035c75590d6e69184','https://www.scopus.com/inward/record.uri?eid=2-s2.0-2342576784&doi=10.1016\%2fj.cose.2004.01.016&partnerID=40&md5=360becb09d04dc4ecd4097052f3131e3','https://www.scopus.com/inward/record.uri?eid=2-s2.0-1442301665&doi=10.1016\%2fS0933-3657\%2803\%2900042-3&partnerID=40&md5=d724404b8a0e406375dbf1ea182f8539',https://www.scopus.com/inward/record.uri?eid=2-s2.0-7544225184&partnerID=40&md5=0694da9c7fe83576a0d142b822aeeac9,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006883126&partnerID=40&md5=a307269b40c0bc1f319d93a3be6990b8}
+@attribute 'Conati C.' numeric
+@attribute 'Gertner A.' numeric
+@attribute 'Vanlehn K.' numeric
+@attribute 'Onjo H.' numeric
+@attribute 'Far B.H.' numeric
+@attribute 'Nefian A.V.' numeric
+@attribute 'Liang L.' numeric
+@attribute 'Pi X.' numeric
+@attribute 'Liu X.' numeric
+@attribute 'Murphy K.' numeric
+@attribute 'Galan S.F.' numeric
+@attribute 'Diez F.J.' numeric
+@attribute 'Bui H.H.' numeric
+@attribute 'Venkatesh S.' numeric
+@attribute 'West G.' numeric
+@attribute 'Van Berlo R.J.P.' numeric
+@attribute 'Van Someren E.P.' numeric
+@attribute 'Reinders M.J.T.' numeric
+@attribute 'Husmeier D.' numeric
+@attribute 'Luo Y.' numeric
+@attribute 'Wu T.-D.' numeric
+@attribute 'Hwang J.-N.' numeric
+@attribute 'Kim S.Y.' numeric
+@attribute 'Imoto S.' numeric
+@attribute 'Miyano S.' numeric
+@attribute 'Guestrin C.' numeric
+@attribute 'Koller D.' numeric
+@attribute 'Parr R.' numeric
+@attribute 'Venkataraman S.' numeric
+@attribute 'De Rosis F.' numeric
+@attribute 'Pelachaud C.' numeric
+@attribute 'Poggi I.' numeric
+@attribute 'Carofiglio V.' numeric
+@attribute 'De Carolis B.' numeric
+@attribute 'Hurri J.' numeric
+@attribute 'Hyvarinen A.' numeric
+@attribute 'Daoudi K.' numeric
+@attribute 'Fohr D.' numeric
+@attribute 'Antoine C.' numeric
+@attribute 'Bilmes J.A.' numeric
+@attribute 'Fernandez R.' numeric
+@attribute 'Picard R.W.' numeric
+@attribute 'Yu J., Smith V.A.' numeric
+@attribute 'Wang P.P.' numeric
+@attribute 'Hartemink A.J.' numeric
+@attribute 'Jarvis E.D.' numeric
+@attribute 'Tucker A.' numeric
+@attribute 'Bay S.D.' numeric
+@attribute 'Chrisman L.' numeric
+@attribute 'Pohorille A.' numeric
+@attribute 'Shrager J.' numeric
+@attribute 'Tu H.' numeric
+@attribute 'Levchuk Y.N.' numeric
+@attribute 'Pattipati K.R.' numeric
+@attribute 'Petkovic M.' numeric
+@attribute 'Jonker W.' numeric
+@attribute 'Naphade M.R.' numeric
+@attribute 'Brandherm B.' numeric
+@attribute 'Jameson A.' numeric
+@attribute 'Park S.' numeric
+@attribute 'Aggarwal J.K.' numeric
+@attribute 'Rangel C.' numeric
+@attribute 'Angus J.' numeric
+@attribute 'Ghahramani Z.' numeric
+@attribute 'Lioumi M.' numeric
+@attribute 'Sotheran E.' numeric
+@attribute 'Gaiba A.' numeric
+@attribute 'Wild D.L.' numeric
+@attribute 'Falciani F.' numeric
+@attribute 'Feng L.' numeric
+@attribute 'Guan X.' numeric
+@attribute 'Guo S.' numeric
+@attribute 'Gao Y.' numeric
+@attribute 'Liu P.' numeric
+@attribute 'Labatut V.' numeric
+@attribute 'Pastor J.' numeric
+@attribute 'Ruff S.' numeric
+@attribute 'Demonet J.-F.' numeric
+@attribute 'Celsis P.' numeric
+@attribute 'Shinozaki T.' numeric
+@attribute 'Furui S.' numeric
+@attribute 'Reye J.' numeric
+@attribute 'Tipo de Paper' {No,Si}
+
+@data
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036961606&doi=10.1023\%2fA\%3a1021258506583&partnerID=40&md5=78061e34f21876b03d32937593cc2152',1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036891002&doi=10.1002\%2fscj.10032&partnerID=40&md5=e84ce3f74f44e18c5d995210fe46b82e',0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036874999&doi=10.1155\%2fS1110865702206083&partnerID=40&md5=7f539f3df3488022cb0159c20347c1ca',0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036734155&doi=10.1016\%2fS0888-613X\%2802\%2900071-3&partnerID=40&md5=9f97aefa7121c2ed763cf3c043914d31',0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Si
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0042254114&partnerID=40&md5=2618e364c8960b911ddf4b9a418919e8,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-1342286937&partnerID=40&md5=55f4726ab8fd5b4a95e8907b8828e713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0344464762&doi=10.1093\%2fbioinformatics\%2fbtg313&partnerID=40&md5=6a04dc1cd5408b31f5c22457768921c0',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0345492459&doi=10.1016\%2fj.cviu.2003.08.001&partnerID=40&md5=087d2870fccc1fffecc40a8224f2eac0',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0842309206&partnerID=40&md5=a5e2660d7b673c14c32252a71498cfeb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-4544318426&partnerID=40&md5=5d297cc43eeb0d8c99a1fd50645b980e,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037872024&doi=10.1016\%2fS1071-5819\%2803\%2900020-X&partnerID=40&md5=15478c0d87b4b5f98c2302ebc52d19ab',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038457886&partnerID=40&md5=fc2cf122b63d0a634d36323e6a1161b2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037683496&doi=10.1016\%2fS0885-2308\%2803\%2900011-1&partnerID=40&md5=b74d9a853e53d4dcb82b4cc0cadcbe05',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038021376&doi=10.1016\%2fS0885-2308\%2803\%2900010-X&partnerID=40&md5=ad67ed7a1e85aeb1f1f3888778c23331',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037382608&doi=10.1016\%2fS0167-6393\%2802\%2900080-8&partnerID=40&md5=4510778ae150bb2a26779cf38839002e',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-12344259602&doi=10.1093\%2fbioinformatics\%2fbth448&partnerID=40&md5=a8c01fdd2f28bc062f7032a3c642d88b',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Si
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-38049012105&partnerID=40&md5=94f19698d03f3ee29be8d7b09de1927d,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Si
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-8444245968&doi=10.1089\%2fcmb.2004.11.971&partnerID=40&md5=8be5b606eb96c7213a0c47ad96ae1f09',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-4444306128&doi=10.1109\%2fTSMCA.2004.832823&partnerID=40&md5=637c47a37d2003fa09620051ba928fd9',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-4644253517&doi=10.1016\%2fj.jvcir.2004.04.001&partnerID=40&md5=5e287259423f07ca33230fd7d4d5054f',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-4644337854&doi=10.1016\%2fj.jvcir.2004.04.010&partnerID=40&md5=64b63492c7b934be5f5549a87b21ac56',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-4344602213&doi=10.1002\%2fint.20022&partnerID=40&md5=6d0c0b449a98613bcccf69ae4b7cea39',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Si
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-10644226864&doi=10.1007\%2fs00530-004-0148-1&partnerID=40&md5=4ca74ade9b06f24a595a3620e1457610',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-3142744689&doi=10.1093\%2fbioinformatics\%2fbth093&partnerID=40&md5=57501aaaa5e4008035c75590d6e69184',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-2342576784&doi=10.1016\%2fj.cose.2004.01.016&partnerID=40&md5=360becb09d04dc4ecd4097052f3131e3',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,No
+'https://www.scopus.com/inward/record.uri?eid=2-s2.0-1442301665&doi=10.1016\%2fS0933-3657\%2803\%2900042-3&partnerID=40&md5=d724404b8a0e406375dbf1ea182f8539',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-7544225184&partnerID=40&md5=0694da9c7fe83576a0d142b822aeeac9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,No
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006883126&partnerID=40&md5=a307269b40c0bc1f319d93a3be6990b8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,No
