@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package wekadev;
+import java.io.File;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import weka.classifiers.Classifier;
@@ -75,7 +76,12 @@ public class WekaDev {
          iExample.setValue((Attribute)fvWekaAttributes.elementAt(3), "negative");
          // add the instance
          isTrainingSet.add(iExample);
-          // Create a naïve bayes classifier    
+          // Create a naïve bayes classifier 
+          arffReader lector = new arffReader();
+          String currentPath = new File("").getAbsolutePath();
+          System.out.println(currentPath);
+          isTrainingSet = lector.read("/home/emedina/Documents/WekaDev/src/arff/Autor_2002-04.arff");
+          
          Classifier cModel = (Classifier)new NaiveBayes();   
         try {
             cModel.buildClassifier(isTrainingSet);
@@ -110,7 +116,7 @@ public class WekaDev {
          //Using the classifier
          //new instances
          // Create the instance
-        Instance iUse = new DenseInstance(4);
+        /*Instance iUse = new DenseInstance(4);
         iUse.setValue((Attribute)fvWekaAttributes.elementAt(0), 1.0);
         iUse.setValue((Attribute)fvWekaAttributes.elementAt(1), 0.5);
         iUse.setValue((Attribute)fvWekaAttributes.elementAt(2), "gray");
@@ -130,6 +136,7 @@ public class WekaDev {
         }
         System.out.println("the probability of being positive: " + fDistribution[0]);
         System.out.println("the probability of being negative: " + fDistribution[1]);
+        */
     }
     
 }
